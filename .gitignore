@@ -1,0 +1,21 @@
+# 依赖库
+node_modules
+# 编译输出文件
+dist
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 编译打包文件
+*.tar.gz
+# 已安装依赖记录
+yarn.lock
+# 历史文件夹
+.history
+target
